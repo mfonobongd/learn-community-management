@@ -10,4 +10,4 @@ A Resource hub with everything you need to know about Community Management.
 - Books
 - Tools
 - Build your Portfolio
-- Community Management Jobs
+- Community Management Job Boards
