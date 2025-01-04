@@ -23,3 +23,8 @@ A Resource hub with everything you need to know about Community Management.
 - [We Work Remotely](https://weworkremotely.com/) 
 - [Virtual Vocations](https://www.virtualvocations.com/) 
 - [Product Hunt](https://www.producthunt.com/) 
+- [FlexJobs](https://www.flexjobs.com/homeVariant/t2)
+- [OK Remote](https://remoteok.com/)
+- [Pangian](https://pangian.com/daffodil/)
+- [Toptal](https://www.toptal.com/) 
+- [Upwork](https://www.upwork.com/)
