@@ -30,3 +30,9 @@ A Resource hub with everything you need to know about Community Management.
 - [Upwork](https://www.upwork.com/)
 
 # Articles 
+
+# Courses 
+
+# Communities 
+
+# Newsletters 
