@@ -14,7 +14,7 @@ A Resource hub with everything you need to know about Community Management.
 
 # Job Boards
 - [Jobgether](https://jobgether.com/) 
-- [Working Nomads]([https://jobgether.com/](https://www.workingnomads.com/jobs)) 
+- [Working Nomads](https://www.workingnomads.com/jobs) 
 - [Wellfound](https://wellfound.com/jobs) 
 - [DailyRemote](https://dailyremote.com/) 
 - [Remotive](https://remotive.com/) 
