@@ -37,6 +37,8 @@ A Resource hub with everything you need to know about Community Management.
 - [Understanding the Duties of a Community Manager](https://www.linkedin.com/pulse/understanding-duties-community-manager-mfonobong-umondia-s5dvf/)
 
 # Courses 
+- [Meta Community Manager Online Courses](https://www.facebookblueprint.com/student/collection/205897-facebook-community-manager-online-courses) 
+- [Build a thriving community that helps you grow your business](https://training.thinkific.com/courses/thriving-communities)
 
 # Communities 
 
