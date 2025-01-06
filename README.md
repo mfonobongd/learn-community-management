@@ -39,6 +39,8 @@ A Resource hub with everything you need to know about Community Management.
 # Courses 
 - [Meta Community Manager Online Courses](https://www.facebookblueprint.com/student/collection/205897-facebook-community-manager-online-courses) 
 - [Build a thriving community that helps you grow your business](https://training.thinkific.com/courses/thriving-communities)
+- [Social Listening and Community Management](https://ecornell.cornell.edu/courses/marketing/social-listening-and-community-management/)
+- [Social Media Marketing Certification Course by Hoot Suite Academy](https://education.hootsuite.com/courses/social-marketing-certification)
 
 # Communities 
 
