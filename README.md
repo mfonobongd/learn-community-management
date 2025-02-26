@@ -28,6 +28,9 @@ A Resource hub with everything you need to know about Community Management.
 - [Pangian](https://pangian.com/daffodil/)
 - [Toptal](https://www.toptal.com/) 
 - [Upwork](https://www.upwork.com/)
+- [Himalayas](https://himalayas.app/jobs)
+- [Ledby Community](https://ledby.community/jobs)
+- [CMX Hub](https://www.cmxhub.com/jobs)
 
 # Articles 
 - [An Introduction to Community Management](https://www.linkedin.com/pulse/introduction-community-management-mfonobong-umondia-njkzf/?trackingId=6sbsNtMbTpOkb1ZddTaO8w%3D%3D) 
