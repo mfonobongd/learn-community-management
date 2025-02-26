@@ -31,6 +31,7 @@ A Resource hub with everything you need to know about Community Management.
 - [Himalayas](https://himalayas.app/jobs)
 - [Ledby Community](https://ledby.community/jobs)
 - [CMX Hub](https://www.cmxhub.com/jobs)
+- [Work at a Startup](https://www.workatastartup.com/companies)
 
 # Articles 
 - [An Introduction to Community Management](https://www.linkedin.com/pulse/introduction-community-management-mfonobong-umondia-njkzf/?trackingId=6sbsNtMbTpOkb1ZddTaO8w%3D%3D) 
